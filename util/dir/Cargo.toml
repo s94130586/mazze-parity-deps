@@ -1,0 +1,11 @@
+[package]
+name = "dir"
+version = "0.1.2"
+authors = ["Parity Technologies <admin@parity.io>"]
+license = "GPL3"
+
+[dependencies]
+ethereum-types = "0.8"
+# journaldb = { path = "../journaldb" }
+app_dirs = "1.2.1"
+home = "0.3"
